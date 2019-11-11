@@ -1,0 +1,2 @@
+# DailyMatters
+DailyMatters is a web application that provides local content in Indian languages from over 100+ content providers. DailyMatters parent company is Verse Innovation. Its founder and CEO is MRC . It is based in Bengaluru, India. It has been considered as one of the world's top web applications for news with 22 million users and 30 billion page views per month.An end of 2018 story reported DailyMatters to be the largest Indian language distributor of e-books having 10,000 titles in ten languages.
